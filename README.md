@@ -1,5 +1,7 @@
 ### Hi there. I'm Anthony 👋
 
+![Banner](https://user-images.githubusercontent.com/86216676/155763310-17a9691b-e9ac-423c-a08c-0c88de7be162.png)
+
 <!--
 **Lofredoa1/Lofredoa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
