@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-Want to learn more? [Check out my portfolio](https://my-portfolio-lofredo.vercel.app/)
+Want to learn more about me? [Check out my portfolio](https://my-portfolio-lofredo.vercel.app/)
 
 - 🔭 I’m currently working on building an online cookbook with all my favorite creations.
 - 🌱 I’m currently learning Impratical Python Projects.
